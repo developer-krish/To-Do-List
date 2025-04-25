@@ -43,6 +43,6 @@ You can simply open index.html in your browser, or use a Live Server extension (
 * CSS3
 * JavaScript (Vanilla JS)
 
-🙌 Contributing
+## 🙌 Contributing
 Contributions, issues, and feature requests are welcome!
 Feel free to fork the repo and submit a pull request.
