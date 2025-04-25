@@ -38,7 +38,7 @@ git clone https://github.com/developer-krish/To-Do-List.git
 🚀 Open the app
 You can simply open index.html in your browser, or use a Live Server extension (like in VS Code) to serve it locally.
 
-📌 Technologies Used
+## 📌 Technologies Used
 * HTML5
 * CSS3
 * JavaScript (Vanilla JS)
