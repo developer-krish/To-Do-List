@@ -39,13 +39,9 @@ git clone https://github.com/developer-krish/To-Do-List.git
 You can simply open index.html in your browser, or use a Live Server extension (like in VS Code) to serve it locally.
 
 📌 Technologies Used
-HTML5
-
-CSS3
-
-JavaScript (Vanilla JS)
-
-LocalStorage API
+* HTML5
+* CSS3
+* JavaScript (Vanilla JS)
 
 🙌 Contributing
 Contributions, issues, and feature requests are welcome!
